@@ -59,7 +59,3 @@ Sunt elev în clasa a XII-a A la Liceul Tehnologic „Grigore C. Moisil”. Îmi
 I am a high school student who enjoys music and computers. I like learning new things and improving my digital skills. My goal is to develop my knowledge and prepare for my future career.
 
 ---
-
-*CV realizat în Markdown pentru portofoliul digital.*
-
-CV realizat în Markdown pentru portofoliul digital.
